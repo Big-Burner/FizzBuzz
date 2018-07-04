@@ -1,8 +1,4 @@
-# FizzBuzz
-Solution
-
 using System;
-
 
 namespace FizzBuzz
 {
